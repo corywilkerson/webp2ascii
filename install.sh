@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-REPO="yourusername/webp2ascii"
+REPO="corywilkerson/webp2ascii"
 VERSION="latest"
 INSTALL_DIR="/usr/local/bin"
 
